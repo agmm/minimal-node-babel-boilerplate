@@ -10,6 +10,6 @@ git clone https://github.com/agmm/minimal-node-babel-boilerplate.git && npm inst
 
 ## Commands
 
-- To transpile and execute `./src/index.js` use `npm run start`
+- To transpile and execute `./src/index.js` use: `npm run start`
 - To watch for changes and auto transpile use: `npm run watch`
-- To create a transpiled bundle under `./dist` use `npm run build`
+- To create a transpiled bundle under `./dist` use: `npm run build`
